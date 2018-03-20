@@ -6,8 +6,8 @@ import os
 from os.path import basename, join
 import sys
 
-BASE_DIRECTORY = "/uod/idr/filesets/idr0041-cai-mitoticatlas/"
-LIMIT = 2
+BASE_DIRECTORY = "/Users/pwalczysko/Desktop/mitotic_cell_atlas/"
+LIMIT = -1
 
 IMAGE_TYPES = {
     'raw': 'rawtif',
