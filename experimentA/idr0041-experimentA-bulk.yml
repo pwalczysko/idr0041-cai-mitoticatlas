@@ -1,3 +1,3 @@
 ---
 include: "../bulk.yml"
-path: "idr0041-experimentA-filePaths.tsv"
+path: "exclusion.tsv"
