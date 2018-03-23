@@ -1,2 +1,3 @@
-Dataset:name:exclusion	/Users/pwalczysko/exclusion-test/second.png	cell0003_R0028_T0001
-Dataset:name:exclusion	/Users/pwalczysko/exclusion-test/JK1.png cell0003_R0028_T0002
+Dataset:name:e  /Users/pwalczysko/exclusion/first    TR1_W0001_P0002_T0001
+Dataset:name:e  /Users/pwalczysko/exclusion/second    TR1_W0001_P0002_T0002
+
